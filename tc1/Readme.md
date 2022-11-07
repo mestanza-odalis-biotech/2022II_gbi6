@@ -1,7 +1,7 @@
 # Tarea de clase 1
 
 ##Odalis Mestanza
-Evalución de conocimientos unix 
+##Evaluación de conocimientos unix 
 
 **Datos Personas**
 - Ciudad de origen: Cotopaxi
