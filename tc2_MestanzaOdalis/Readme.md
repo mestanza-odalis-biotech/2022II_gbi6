@@ -8,5 +8,7 @@
 - Carrera: Biotecnología
 - Semestre: Sexto
 - Lugar de origen: Cotopaxi
+- Lugar de residencia: Tena
+- Fecha de nacimiento: 06/06/2000
 ## Programas usados ## 
 Git bash 
