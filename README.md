@@ -15,4 +15,3 @@ Los tópicos cubiertos son:
 - 🔭 **Moisés Gualapuro**: Docente.  
 
 - 🌱 **Francisco Mendoza**: TA.
-- Hi
